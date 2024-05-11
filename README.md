@@ -1,4 +1,4 @@
 # Imaginify
 
 Starting Date: 2021-05-05
-//1:37:18
+Ended due to Clerk Webhook Request failing and messing up the code layout
